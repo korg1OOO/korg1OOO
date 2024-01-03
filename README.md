@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)]
+![MasterHead](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
 <h1 align="center">Hi 👋, I'm Enzo Feldman</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/explore/programmer-cat">
