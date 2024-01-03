@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
 <h1 align="center">Hi 👋, I'm Enzo Feldman</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
-<div class="tenor-gif-embed" data-postid="22257939" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/cat-coding-gif-22257939">Cat Coding GIF</a>from <a href="https://tenor.com/search/cat+coding-gifs">Cat Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/pt-PT/view/cat-coding-gif-22257939">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korg1ooo&label=Profile%20views&color=0e75b6&style=flat" alt="korg1ooo" /> </p>
 
