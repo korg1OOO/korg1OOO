@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
 <h1 align="center">Hi 👋, I'm Enzo Feldman</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/explore/programmer-cat](https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt)">
+<img align="right" alt="Coding" width="400" src="(https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korg1ooo&label=Profile%20views&color=0e75b6&style=flat" alt="korg1ooo" /> </p>
 
