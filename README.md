@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **enzomichelfeldman@gmail.com**
 
-- ⚡ Fun fact **When I'm not trading nor programming I'm playing League**
+- ⚡ Fun fact **when I'm not trading nor programming I'm playing League**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
