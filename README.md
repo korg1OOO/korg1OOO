@@ -1,23 +1,23 @@
 ![MasterHead](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
 <h1 align="center">Hi 👋, I'm Enzo Feldman</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<h3 align="center">A passionate dev from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0344/6469/files/cat-gif-loop-maru_grande.gif?v=1523984148">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korg1ooo&label=Profile%20views&color=0e75b6&style=flat" alt="korg1ooo" /> </p>
 
-- 🔭 I’m currently working on [a Social Media Management Agency](https://korg1ooo.github.io/Dot/)
+- 🔭 I’m currently working on crypto and trading
 
-- 🌱 I’m currently learning **new technologies for frontend**
+- 🌱 I’m currently learning to build on web3
 
-- 👯 I’m looking to collaborate on [any frontend remote job](https://www.linkedin.com/in/enzomichel/)
+- 👯 I’m looking to collaborate on [any projects I find interesting]
 
-- 🤝 I’m looking for help with **new ideas for cool SAAS**
+- 🤝 I’m looking for help with **AI + Web3**
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **what I'm holding**
 
-- 📫 How to reach me **enzo.tds2023@gmail.com**
+- 📫 How to reach me **enzomichelfeldman@gmail.com**
 
-- ⚡ Fun fact **I sleep 5h a day on a daily basis**
+- ⚡ Fun fact **When I'm not trading nor programming I'm playing League**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
