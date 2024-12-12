@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **what I'm holding**
 
-- 📫 How to reach me **(https://linktr.ee/eofeldima)**
+- 📫 How to reach me **https://linktr.ee/eofeldima**
 
 - ⚡ Fun fact **when I'm not trading nor programming I'm creating content**
 
