@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korg1ooo&label=Profile%20views&color=0e75b6&style=flat" alt="korg1ooo" /> </p>
 
-- 🔭 I’m currently working on crypto and trading
+- 🔭 I’m currently working on **Content Creation and CM**
 
-- 🌱 I’m currently learning to build on web3
+- 🌱 I’m currently learning **Bootstrap**
 
-- 👯 I’m looking to collaborate on [any projects I find interesting]
+- 👯 I’m looking to collaborate on [Mango Network]
 
-- 🤝 I’m looking for help with **AI + Web3**
+- 🤝 I’m looking for help with **AI-Based Agents**
 
-- 💬 Ask me about **what I'm holding**
+- 💬 Ask me about **AVAX Ecosystem**
 
 - 📫 How to reach me **https://linktr.ee/eofeldima**
 
-- ⚡ Fun fact **when I'm not trading nor programming I'm creating content**
+- ⚡ Fun fact **I'm a web3 workaholic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
